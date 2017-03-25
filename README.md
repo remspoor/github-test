@@ -17,9 +17,9 @@ Components used:
 Poormans schematic:
 -------------------
 
-`  Balancer cables >----+`
-`                       |`
-`                       |`
+``  Balancer cables >----+``
+``                       |``
+``                       |``
 `                      |+|`
 `                      | |`
 `                      | | 27kOhm`
